@@ -1,0 +1,25 @@
+README.md
+  s_c339ca357cc531::t_6169a562fe3a80 5
+sitemap.xml
+  s_c339ca357cc531::t_6169a562fe3a80 4
+robots.txt
+  s_c339ca357cc531::t_6169a562fe3a80 4
+index.html
+  s_c339ca357cc531::t_6169a562fe3a80 12,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "2e212acaf6479d96801371451021d465e1844eac",
+  "prompts": {},
+  "sessions": {
+    "s_c339ca357cc531": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5234-51ff-7f23-a378-2834cc7022f3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Arun Sharma <sharm485@umn.edu>"
+    }
+  }
+}
